@@ -6,7 +6,7 @@
  * $.URLgetty() to initialize it
  * $.URLgetty.param('name') to get a specific value of the parameters
  * 
- * @author Miguel Gocobachi <miguelg@vsisoft.com>
+ * @author Miguel Gocobachi <miguelg@gocobachi.mx>
  */
 if (window.jQuery) {
     $(function($) {
